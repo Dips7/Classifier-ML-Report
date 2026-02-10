@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Avg Precision,Macro Avg Recall,Macro Avg F1-Score,Weighted Avg Precision,Weighted Avg Recall,Weighted Avg F1-Score
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Decision Tree Classifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Random Forest Classifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0

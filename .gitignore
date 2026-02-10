@@ -1,0 +1,6 @@
+dips/
+__pycache__/
+.DS_Store
+.gemini/
+.agent/
+.vscode/
